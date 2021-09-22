@@ -1,7 +1,8 @@
-.body
+body
 {
     text-align: center;
     background-color: beige;
+    font-family: 'Gluten', cursive;
 }
 .header_div
 {
@@ -21,7 +22,7 @@
     font-weight: 700;
 }
 .main_div{
-    background: lightgreen;
+    background:rgb(185, 176, 176);
     margin-top: 20px;
 }
 .copy_right_footer{
